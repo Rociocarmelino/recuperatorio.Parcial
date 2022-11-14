@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668438266 source:c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\recuperatorioprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
